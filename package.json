@@ -15,7 +15,7 @@
     "functional"
   ],
   "author": "Romaric Pascal <hello@romaricpascal.is>",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/rhumaric/tinymation/issues"
   },
