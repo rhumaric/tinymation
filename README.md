@@ -45,6 +45,6 @@ time(1000)(parallel([
 [More details about the first call in this article][article-scroll] and [about the second in this one][article-composition]
 
 [gh-issues]: https://github.com/rhumaric/tinymation/issues
-[article-intro]: https://romaricpascal.is/writing-about/animating-with-javascript-functions/
+[article-intro]: https://romaricpascal.is/writing-about/animations-with-javascript-functions/
 [article-scroll]: https://romaricpascal.is/writing-about/expressive-scroll-animations/
-[article-composition]: https://romaricpascal.is/writing-about/composing-animations-with-javascript-functions/
+[article-composition]: https://romaricpascal.is/writing-about/composing-animations-through-functions
