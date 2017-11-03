@@ -1,4 +1,4 @@
-import throttle from 'lodash.throttle';
+import throttle from '../functions/throttle';
 
 function ifHasChanged(fn) {
 	return function a(value) {
